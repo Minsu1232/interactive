@@ -124,9 +124,9 @@ graph TD
 
 ## 🔗 기타 링크
 
-- 📸 [샘플 프로필 보기](#)  
-- 🧠 [ComfyUI 워크플로우](#)
-- 🤖 [기타 다른 게임 YouTube 링크](#)
+- 📸 [샘플 프로필 보기](file:///C:/Users/ok050/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/InvestmentGame/Investment_Magazine_2025-06-23_12-59-31.pdf)  
+- 🧠 [ComfyUI 워크플로우](Assets/Contents/Script/Example/ComfyUI워크플로우)
+- 🤖 [기타 다른 게임 YouTube 링크](https://www.youtube.com/@MinsuShin-k9f)
 
 
 ---
