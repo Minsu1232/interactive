@@ -1,0 +1,356 @@
+﻿Key,Korean,English
+stock_smarttech,스마트테크,SmartTech
+stock_cloudking,클라우드킹,CloudKing
+stock_searchmaster,서치마스터,SearchMaster
+stock_socialverse,소셜버스,SocialVerse
+stock_streamplus,스트림플러스,StreamPlus
+stock_neochips,네오칩스,NeoChips
+stock_chipfactory,칩팩토리,ChipFactory
+stock_ryzentech,라이젠텍,RyzenTech
+stock_thundermotors,썬더모터스,ThunderMotors
+stock_greencar,그린카,GreenCar
+stock_cleanenergy,클린에너지,CleanEnergy
+stock_digitalgold,디지털골드,DigitalGold
+stock_smartcoin,스마트코인,SmartCoin
+stock_koreaelec,코리아일렉,KoreaElec
+stock_memoryking,메모리킹,MemoryKing
+sector_tech,기술,TECH
+sector_sem,반도체,SEM
+sector_ev,에너지,EV
+sector_crypto,가상자산,CRYPTO
+sector_corp,대기업,CORP
+header_title,투자 수익률 순위,Investment Return Ranking
+header_subtitle,실시간 등락률 기준 정렬,Real-time Rate of Return Ranking
+header_year,2024,2024
+header_round,라운드,Round
+header_time_remaining,남은 시간,Time Remaining
+header_cash_balance,보유 자금,Cash Balance
+header_total_asset,총 자산,Total Asset
+table_rank,순위,Rank
+table_stock_name,종목명,Stock Name
+table_current_price,현재가,Current Price
+table_change_rate,등락률,Change Rate
+table_rank_change,변동,Change
+ui_rank,순위,Rank
+ui_stock_name,종목명,Stock Name
+ui_current_price,현재가,Current Price
+ui_change_rate,등락률,Change Rate
+ui_rank_change,변동,Change
+ui_turn,턴,Turn
+ui_remaining_time,남은 시간,Remaining Time
+ui_total_asset,총 자산,Total Asset
+ui_game_title,투자 수익률 순위,Investment Return Ranking
+ui_year,2024,2024
+ui_won,원,Won
+ui_percent,%,%
+ui_seconds,초,sec
+ui_round_format,라운드 {0}/{1},Round {0}/{1}
+ui_time_format,남은 시간: {0}초,Time: {0}s
+ui_money_format,{0:N0}원,₩{0:N0}
+ui_cash_format,보유 자금: {0:N0}원,Cash: ₩{0:N0}
+ui_asset_format,총 자산: {0:N0}원,Total: ₩{0:N0}
+event_ai_innovation,AI 기술 혁신!,AI Technology Innovation!
+event_ai_innovation_desc,반도체와 AI 관련 종목이 급상승하고 있습니다!,Semiconductor and AI stocks are surging!
+event_energy_policy,에너지 정책 변화,Energy Policy Change
+event_energy_policy_desc,정부의 새로운 에너지 정책이 발표되었습니다!,New government energy policy announced!
+event_interest_rate,금리 정책 발표,Interest Rate Policy
+event_interest_rate_desc,중앙은행의 금리 정책이 기술주에 영향을 미치고 있습니다!,Central bank policy affects tech stocks!
+event_crypto_regulation,가상자산 규제,Crypto Regulation
+event_crypto_regulation_desc,가상자산에 대한 새로운 규제가 시행됩니다!,New cryptocurrency regulations implemented!
+event_global_economy,글로벌 경제 이슈,Global Economic Issue
+event_global_economy_desc,국제 경제 상황이 전체 시장에 영향을 미치고 있습니다!,Global economic conditions affecting all markets!
+button_buy,매수,Buy
+button_sell,매도,Sell
+button_hold,보유,Hold
+button_next_turn,다음 턴,Next Turn
+button_end_turn,턴 종료,End Turn
+button_korean,한국어,Korean
+button_english,English,English
+button_start_game,게임 시작,Start Game
+button_restart,다시 시작,Restart
+button_quit,종료,Quit
+status_up,상승,Up
+status_down,하락,Down
+status_same,보합,Same
+status_hot,급등,Hot
+status_cold,급락,Cold
+rank_upper_class,👑투자 천재,👑Investment Genius
+rank_upper_middle,💎투자 고수,💎Investment Expert
+rank_middle_class,🌟평범한 투자자,🌟Average Investor
+rank_lower_class,📈아쉬운 투자자,📈Common Investor
+result_excellent,훌륭합니다!,Excellent!
+result_good,잘했습니다!,Good Job!
+result_average,평범합니다,Average
+result_poor,아쉽습니다,Poor
+invest_portfolio,포트폴리오,Portfolio
+invest_shares,보유 주식,Shares
+invest_profit,수익,Profit
+invest_loss,손실,Loss
+invest_return_rate,수익률,Return Rate
+invest_diversification,분산투자,Diversification
+invest_risk,리스크,Risk
+msg_game_start,게임이 시작되었습니다!,Game Started!
+msg_game_end,게임이 종료되었습니다!,Game Ended!
+msg_turn_start,턴 {0}이 시작되었습니다!,Turn {0} Started!
+msg_turn_end,턴이 종료되었습니다!,Turn Ended!
+msg_time_warning,시간이 10초 남았습니다!,10 seconds remaining!
+msg_time_up,시간 종료!,Time's Up!
+msg_buy_success,매수가 완료되었습니다!,Purchase completed!
+msg_sell_success,매도가 완료되었습니다!,Sale completed!
+msg_insufficient_funds,자금이 부족합니다!,Insufficient funds!
+help_objective,목표: 10턴 동안 투자하여 최고 수익률을 달성하세요!,Objective: Achieve the highest return over 10 turns!
+help_controls,조작: 종목을 클릭하여 매수/매도하세요,Controls: Click stocks to buy/sell
+help_time_limit,시간 제한: 각 턴마다 30초의 시간이 주어집니다,Time Limit: 30 seconds per turn
+help_diversification,팁: 분산투자로 리스크를 줄이세요!,Tip: Reduce risk through diversification!
+ui_stocksText,종목(터치하여 매수),Stocks (Touch to Buy)
+ui_buy,매수하기,Buy
+ui_buy_more,추가매수,Buy More
+ui_sell,매도,Sell
+ui_owned,보유중,Owned
+ui_shares_unit,주,Shares
+ui_no_data,데이터 없음,No Data
+ui_portfolio_value,내 포트폴리오,My Portfolio
+ui_portfolio_change,보유 종목,stocks held
+portfolio_total_return,총 수익률,Total Return
+portfolio_holding_count,보유 종목,stocks held
+portfolio_diversification,분산투자 보너스,Spread Bonus
+portfolio_cash_ratio,현금 비중,Cash Ratio
+portfolio_averageprice,평단가,average price
+purchase_order,📊 매수 주문,📊 Purchase Order
+purchase_select_quantity,매수 수량 선택,Select Purchase Quantity
+trading_fee_label,수수료,Trading Fee
+total_amount_label,총 금액,Total Amount
+quick_max,최대,Max
+no_holdings,보유 없음,No Holdings
+cancel,취소,Cancel
+sell_order,📊 매도 주문,📊 Sell Order
+sell_select_quantity,매도 수량 선택,Select Sell Quantity
+sell_receive_amount,받을 금액,Receive Amount
+sell_expected_profit,예상 손익,Expected Profit
+current_holdings,현재 보유,Current Holdings
+news_label_breaking,📺 속보,📺 Breaking
+news_label_preview,📰 예고,📰 Preview
+news_label_normal,📊 뉴스,📊 News
+news_preview_tech,내일 주요 기술기업들 긴급 발표 예정... 업계 관계자들 주목 👀,Major tech companies announce urgent briefing tomorrow... Industry insiders watching closely 👀
+news_preview_energy,국제 에너지 회의 내일 개최... 주요국 정책 변화 논의 예정 🌍,International energy meeting tomorrow... Major policy changes to be discussed 🌍
+news_preview_monetary,중앙은행 관계자 내일 중요 발표 예고... 시장 전문가들 관심 집중 📊,Central bank officials announce important briefing tomorrow... Market experts watching closely 📊
+news_preview_crypto,정부 관계자 '가상자산 관련 중요 발표' 예고... 내용은 비공개 🏛️,Government officials announce 'important crypto-related briefing'... Details undisclosed 🏛️
+news_preview_economy,국제 경제 포럼 내일 개최... 주요 경제 지표 발표 예정 💼,International economic forum tomorrow... Major economic indicators to be announced 💼
+news_preview_default,내일 중요한 발표가 예정되어 있습니다... 시장에 영향을 줄 전망 📈,Important announcement scheduled for tomorrow... Expected to impact markets 📈
+news_event_ai_innovation,🚀 AI 기술 혁신 발표! 메이저 기업들 혁신적 AI 기술 공개,🚀 AI Technology Innovation Announced! Major companies reveal breakthrough AI technology
+news_event_energy_policy,⚡ 글로벌 에너지 정책 전환 발표! 친환경 에너지 투자 확대,⚡ Global Energy Policy Shift Announced! Green energy investment expansion
+news_event_rate_hike,📊 중앙은행 기준금리 인상 발표! 기술주에 부담 예상,📊 Central Bank Rate Hike Announced! Tech stocks expected to face pressure
+news_event_crypto_regulation,⚖️ 가상자산 규제 강화 발표! 거래소 규제 대폭 강화,⚖️ Crypto Regulation Tightened! Exchange regulations significantly strengthened
+news_event_global_crisis,🌍 글로벌 경제 불안 확산! 국제 경제 상황 악화,🌍 Global Economic Uncertainty Spreads! International economic conditions worsen
+main_title,AI 투자 시뮬레이터,AI Investment Simulator
+main_subtitle,당신 안에 숨은 투자자는 누구인가요?,What kind of investor lives inside you?
+card_experience_title,💰 3분 투자 체험 → 📰 나와 닮은 투자자,💰 3-Min Investment Experience →  📰 Your Investor Twin Revealed
+card_news_title,📰 AI 신문 출력, → 📰 AI News Output 
+card_experience_desc,100만원으로 시작하는 15개 종목 투자 게임,Investment game with 15 stocks starting with 1M₩
+cta_text,👆 화면을 터치하여 시작하세요,👆 Touch the screen to start
+language_korean,한국어,Korean
+language_english,English,English
+rules_title,🎮 게임 룰,🎮 Game Rules
+rules_main_desc,💰 100만원 → 🏆 얼마까지?,💰 1M Won → 🏆 How Much?
+rules_sub_desc,10턴 × 30초 | 15개 종목 투자,10 Turns × 30sec | 15 Stock Investment
+rules_bonus_title,🎯 분산투자 = 성공의 열쇠!,🎯 Diversification = Key to Success!
+rules_grade_title,🏆 나는 어떤 투자자가 될까?,🏆 What Kind of Investor Will I Be?
+rules_grade_genius,👑\n투자 천재\n150만+,👑\nInvestment Genius\n150M₩+
+rules_grade_expert,💎\n투자 고수\n120만+,💎\nInvestment Expert\n120M₩+
+rules_grade_normal,🌟\n평범한 투자자\n100만+,🌟\nAverage Investor\n100M₩+
+rules_grade_retry,📈\n아쉬운 투자자\n0+,📈\nA disappointing investor\n0+
+rules_start_button,🚀 투자 시작!,🚀 Start Investing!
+rules_tip_text,💡 특정 턴마다 이벤트가 발생해요. 현명하게 대응하세요!,💡 Events occur on specific turns. Respond wisely!
+guide_title,🎮 게임 가이드,🎮 Game Guide
+guide_subtitle,AI 투자 시뮬레이터 플레이 방법,How to Play AI Investment Simulator
+guide_game_info_title,게임 정보,Game Info
+guide_total_turns,총 턴,Total Turns
+guide_turn_time,턴 시간,Turn Time
+guide_initial_money,초기자금,Initial Money
+guide_money_unit,만원,0K Won
+guide_trading_fee,수수료,Trading Fee
+guide_objective,게임 목표,Game Objective
+guide_objective_desc,10턴 동안 주식을 사고팔아 최대 수익을 만드세요!,Trade stocks over 10 turns to maximize your profit!
+guide_controls_title,기본 조작,Basic Controls
+guide_stock_purchase,주식 구매,Stock Purchase
+guide_buy_desc,주식을 클릭하고 매수하기 버튼으로 구매. 주식가격 + 수수료 0.25%가 차감됩니다.,Click a stock and use the buy button. Stock price + 0.25% fee will be deducted.
+guide_stock_sell,주식 판매,Stock Sale
+guide_sell_desc,보유 주식을 클릭하고 매도 버튼으로 판매. 현재가 - 수수료 0.25%를 받습니다.,Click your stock and use the sell button. You'll receive current price - 0.25% fee.
+guide_quantity_control,수량 조절,Quantity Control
+guide_quantity_desc,"+1%, +5%, +10%, 전액 버튼이나 직접 입력으로 수량을 정하세요.","Use +1%, +5%, +10%, Max buttons or direct input to set quantity."
+guide_features_title,특별 기능,Special Features
+guide_skip_turn,턴 넘기기,Skip Turn
+guide_skip_desc,거래를 마쳤다면 클릭해서 즉시 다음 턴으로 넘어가세요.,"If you're done trading, click to immediately go to the next turn."
+guide_5sec_stop,5초 스탑,5-Second Stop
+guide_time_stop,시간 정지,Time Stop
+guide_stop_desc,급할 때 5초간 시간을 멈춥니다. 턴당 1회만 사용 가능!,Stop time for 5 seconds when urgent. Only once per turn!
+guide_news_ticker,뉴스 티커,News Ticker
+guide_news_desc,화면 상단 뉴스에서 다음 턴 이벤트를 미리 확인하세요.,Check the top news for upcoming turn events.
+guide_tips_title,투자 팁,Investment Tips
+guide_bonus,보너스,Bonus
+guide_diversification_desc,여러 섹터에 투자하면 게임 끝에 보너스! 2개:+5% / 3개:+10% / 4개:+15% / 5개:+20%,Bonus at the End - 2:+5% / 3:+10% / 4:+15% / 5:+20%
+guide_event_usage,이벤트 활용,Event Usage
+guide_event_desc,"3, 5, 7, 9턴에 이벤트 발생. 뉴스 보고 미리 투자하면 대박!","Events occur on turns 3, 5, 7, 9. Watch news and invest early for big profits!"
+guide_fee_management,수수료 관리,Fee Management
+guide_fee_desc,매매시마다 0.25% 수수료 발생. 너무 자주 거래 금지!,0.25% fee per trade. Don't trade too frequently!
+guide_turns_value,10,10
+guide_time_value,30초,30sec
+guide_money_value,100만,100M₩
+guide_fee_value,0.25%,0.25%
+button_next_turn,다음 턴,Next Turn
+button_stop,고민의 시간,Decision Time
+button_guide,가이드,Guide
+result_tab_final,최종결과,Final Result
+result_tab_trade_history,매매내역,Trade History
+result_tab_sector,섹터성과,Sector Performance
+result_tab_events,주요이벤트,Major Events
+result_button_restart,다시하기,Restart
+result_button_print,나와 닮은 투자자 보기,Your Investor Twin Revealed
+result_button_main_menu,메인메뉴,Main Menu
+result_printing_message,인쇄 중입니다,Printing
+c,투자 완료! 축하합니다!,Investment Complete! Congratulations!
+result_count_format,{0}회,{0} times
+lifestyle_upper,상류층,Upper Class
+lifestyle_middle_upper,중상류층,Middle-Upper Class
+lifestyle_middle,평범층,Middle Class
+lifestyle_lower,하류층,Lower Class
+result_turn_format,{0}턴,{0}Turn
+trade_quantity_format,{0}주,{0}Stocks
+ui_trade,거래,Trade
+ui_stock_name,주식이름,StockName
+ui_quantity,주식갯수,Quantity
+ui_price,가격,Price
+ui_total_price,총합,TotalPrice
+sector_comment_excellent,대성공!,Excellent!
+sector_comment_success,성공!,Success!
+sector_comment_small_win,소폭 수익,Small Win
+sector_comment_small_loss,소폭 손실,Small Loss
+sector_comment_loss,손실,Loss
+sector_comment_big_loss,큰 손실,Big Loss
+event_education_tech,기술 혁신은 관련 기업들의 주가를 상승시킵니다,Technology innovation drives up related company stock prices
+event_education_energy,에너지 정책 변화는 전기차 산업에 직접적 영향을 미칩니다,Energy policy changes directly impact the EV industry
+event_education_interest,금리 변화는 기술주와 대기업에 반대 영향을 미칩니다,Interest rate changes have opposite effects on tech and corporate stocks
+event_education_crypto,가상자산 규제는 관련 기업 주가에 부정적 영향을 미칩니다,Crypto regulations negatively impact related company stocks
+event_education_corporate,기업 실적은 해당 섹터에 직접적 영향을 미칩니다,Corporate performance directly affects the relevant sector
+event_education_default,시장에 영향을 미치는 중요한 뉴스입니다,Important news that affects the market
+event_impact_positive,상승,Up
+event_impact_negative,하락,Down
+event_impact_arrow_up,📈,📈
+event_impact_arrow_down,📉,📉
+event_category_tech,기술 이벤트,Tech Event
+event_category_energy,에너지 이벤트,Energy Event
+event_category_interest,금리 이벤트,Interest Rate Event
+event_category_crypto,가상자산 이벤트,Crypto Event
+event_category_corporate,기업 이벤트,Corporate Event
+event_category_general,일반 이벤트,General Event
+event_title_ai_innovation,AI 기술 혁신 발표!,AI Technology Innovation Announced!
+event_title_energy_policy,글로벌 에너지 정책 변화,Global Energy Policy Change
+event_title_interest_rate,중앙은행 금리 정책 발표,Central Bank Interest Rate Policy Announced
+event_title_crypto_regulation,가상자산 규제 강화,Cryptocurrency Regulation Tightened
+event_desc_ai_innovation,메이저 테크 기업들이 혁신적인 AI 기술을 공개했습니다.,Major tech companies have unveiled breakthrough AI technologies.
+event_desc_energy_policy,주요국들이 새로운 에너지 정책을 발표했습니다.,Major countries have announced new energy policies.
+event_desc_interest_rate,기준금리 인상으로 기술주에 부담이 예상됩니다.,Interest rate hikes are expected to burden tech stocks.
+event_desc_crypto_regulation,정부가 가상자산에 대한 규제를 대폭 강화한다고 발표했습니다.,The government announced significant strengthening of cryptocurrency regulations.
+news_event_ai_innovation,🚀 AI 기술 혁신 발표! 메이저 기업들 혁신적 AI 기술 공개,🚀 AI Technology Innovation Announced! Major companies reveal breakthrough AI technology
+news_event_energy_policy,⚡ 글로벌 에너지 정책 전환 발표! 친환경 에너지 투자 확대,⚡ Global Energy Policy Shift Announced! Green energy investment expansion
+news_event_rate_hike,📊 중앙은행 기준금리 인상 발표! 기술주에 부담 예상,📊 Central Bank Rate Hike Announced! Tech stocks expected to face pressure
+news_event_crypto_regulation,⚖️ 가상자산 규제 강화 발표! 거래소 규제 대폭 강화,⚖️ Crypto Regulation Tightened! Exchange regulations significantly strengthened
+news_event_global_crisis,🌍 글로벌 경제 불안 확산! 국제 경제 상황 악화,🌍 Global Economic Uncertainty Spreads! International economic conditions worsen
+news_event_default,📰 중요한 시장 뉴스가 발표되었습니다,📰 Important market news has been announced
+news_preview_tech,내일 주요 기술기업들 긴급 발표 예정... 업계 관계자들 주목 👀,Major tech companies announce urgent briefing tomorrow... Industry insiders watching closely 👀
+news_preview_energy,국제 에너지 회의 내일 개최... 주요국 정책 변화 논의 예정 🌍,International energy meeting tomorrow... Major policy changes to be discussed 🌍
+news_preview_monetary,중앙은행 관계자 내일 중요 발표 예고... 시장 전문가들 관심 집중 📊,Central bank officials announce important briefing tomorrow... Market experts watching closely 📊
+news_preview_crypto,정부 관계자 '가상자산 관련 중요 발표' 예고... 내용은 비공개 🏛️,Government officials announce 'important crypto-related briefing'... Details undisclosed 🏛️
+news_preview_economy,국제 경제 포럼 내일 개최... 주요 경제 지표 발표 예정 💼,International economic forum tomorrow... Major economic indicators to be announced 💼
+news_preview_default,내일 중요한 발표가 예정되어 있습니다... 시장에 영향을 줄 전망 📈,Important announcement scheduled for tomorrow... Expected to impact markets 📈
+event_education_tech,기술 혁신은 관련 기업들의 주가를 상승시킵니다,Technology innovation drives up related company stock prices
+event_education_energy,에너지 정책 변화는 전기차 산업에 직접적 영향을 미칩니다,Energy policy changes directly impact the EV industry
+event_education_interest,금리 변화는 기술주와 대기업에 반대 영향을 미칩니다,Interest rate changes have opposite effects on tech and corporate stocks
+event_education_crypto,가상자산 규제는 관련 기업 주가에 부정적 영향을 미칩니다,Crypto regulations negatively impact related company stocks
+event_education_corporate,기업 실적은 해당 섹터에 직접적 영향을 미칩니다,Corporate performance directly affects the relevant sector
+event_education_default,시장에 영향을 미치는 중요한 뉴스입니다,Important news that affects the market
+result_bonus,보너스,Bonus
+result_congratulations,투자 완료!,Investment Complete!
+result_total_trades,총 거래,Total Trades
+result_total_profit,총 수익,Total Profit
+result_main_title,🎮 투자 결과,🎮 Investment Results
+result_panel_final,최종결과,Final Result
+result_panel_trade_history,💳매매내역,💳Trade History
+result_panel_sector_performance,🎯섹터별 성과,🎯Sector Performance
+result_panel_major_events,📰주요이벤트,📰Major Events
+magazine_title,INVESTOR,INVESTOR
+magazine_subtitle,AI Investment Analysis,AI Investment Analysis
+magazine_issue_label,ISSUE 01,ISSUE 01
+magazine_date_format,yyyy.MM.dd,yyyy.MM.dd
+magazine_cover_headline,투자 프로필,Investment Profile
+magazine_investment_style_label,Investment Style,Investment Style
+style_balanced_growth_investor,균형성장투자형,BALANCED GROWTH INVESTOR
+style_active_trader,액티브트레이더형,ACTIVE TRADER
+style_cautious_investor,신중투자형,CAUTIOUS INVESTOR
+style_focused_investor,집중투자형,FOCUSED INVESTOR
+style_steady_investor,안정투자형,STEADY INVESTOR
+magazine_analysis_title,Investment Analysis,market
+magazine_analysis_subtitle,성공적인 투자 전략의 핵심,Key to Successful Investment Strategy
+magazine_core_philosophy_title,Core Philosophy,Core Philosophy
+magazine_market_strategy_title,시장 전략,Market Strategy
+magazine_expert_source,AI Investment Research Institute,AI Investment Research Institute
+philosophy_balanced_growth_investor,레이 달리오처럼 리스크 분산과 성장 기회의 균형을 추구하는 체계적인 투자 철학을 보여줍니다.,Like Ray Dalio shows a systematic investment philosophy that pursues a balance between risk diversification and growth opportunities.
+philosophy_active_trader,조지 소로스처럼 시장 흐름을 면밀히 분석하여 최적의 타이밍을 포착하는 능동적 투자 철학이 특징입니다.,Characterized by an agile investment approach that quickly captures market changes and doesn't miss opportunities.
+philosophy_patient_investor,깊이 있는 분석을 바탕으로 한 장기적 관점의 투자 철학이 돋보입니다.,Distinguished by a long-term investment philosophy based on in-depth analysis.
+philosophy_focused_investor,선택과 집중을 통한 전문 분야 투자 철학이 뚜렷하게 나타납니다.,Shows a clear investment philosophy of focusing on specialized areas through selection and concentration.
+philosophy_steady_investor,안정성을 최우선으로 하는 신중한 투자 접근법이 특징입니다.,Characterized by a prudent investment approach that prioritizes stability above all.
+market_strategy_base,시장 변화와 이벤트에 대한 민감한 반응력과 적절한 대응 능력을 보여줍니다.,Shows sensitive responsiveness and appropriate response capability to market changes and events.
+strategy_diversification_master,다양한 섹터에 걸친 분산투자를 통해 체계적인 리스크 관리 능력을 발휘합니다.,Demonstrates systematic risk management capabilities through diversified investment across various sectors.
+strategy_focused_approach,선택과 집중을 통한 전문 분야 투자로 깊이 있는 시장 이해력을 보여줍니다.,Shows deep market understanding through specialized investment via selection and focus.
+strategy_evaluation_excellent,시장 대응 전략이 탁월한 성과로 이어졌습니다.,Market response strategy led to excellent performance.
+strategy_evaluation_good,효과적인 시장 대응이 좋은 결과를 가져왔습니다.,Effective market response brought good results.
+strategy_evaluation_average,기본적인 시장 대응 능력을 보여주었습니다.,You showed basic market response capabilities.
+strategy_evaluation_learning,시장 대응을 배워가는 과정이 보입니다.,The process of learning market response is evident.
+strategy_evaluation_challenge,도전적인 시장 환경에서 소중한 경험을 쌓았습니다.,Gained valuable experience in challenging market conditions.
+expert_quote_excellent,현대적 포트폴리오 이론의 완벽한 실례를 보여주는 투자 접근법입니다.,An investment approach that demonstrates a perfect example of modern portfolio theory.
+expert_quote_good,안정적이면서도 성장지향적인 투자 전략이 돋보입니다.,A stable yet growth-oriented investment strategy stands out.
+expert_quote_average,보수적이면서도 신중한 투자 접근법을 보여줍니다.,Shows a conservative yet prudent investment approach.
+expert_quote_learning,투자는 지속적인 학습의 과정입니다. 이번 경험이 소중한 자산이 될 것입니다.,Investment is continuous learning. This experience will become a valuable asset.
+expert_quote_challenge,투자의 다양한 면을 경험해보는 소중한 시간이었습니다.,It was a valuable time experiencing various aspects of investment.
+profile_diversification_success,체계적인 분산투자를 통해 {0}% 추가 수익을 달성했습니다.,Achieved {0}% additional returns through systematic diversification.
+philosophy_active_trading,활발한 거래를 통해 시장 기회를 적극적으로 포착하는 능동적 접근법이 특징입니다.,Characterized by an active approach that aggressively captures market opportunities through frequent trading.
+philosophy_patient_approach,신중한 분석을 바탕으로 한 장기적 관점의 투자 접근법이 돋보입니다.,Distinguished by a long-term investment approach based on careful analysis.
+strategy_balanced_complete,"🌈 분산투자 스마트 전략 🌈\n달걀을 여러 바구니에 나누어 담기\n한 곳이 흔들려도 괜찮도록! 🛡️\n균형이 곧 안정, 안정이 곧 성공","🌈 Smart Diversification Strategy 🌈\nDon't put all eggs in one basket\nStay safe when one area shakes! 🛡️\nBalance means stability, stability means success"
+strategy_active_complete,⚡ 기회포착 스마트 전략 ⚡\n시장의 흐름을 읽고 빠르게 대응\n망설이면 기회는 날아간다! 🚀\n직감과 분석의 완벽한 조화,⚡ Smart Opportunity Strategy ⚡\nRead market flows and respond quickly\nHesitate and opportunities fly away! 🚀\nPerfect harmony of intuition and analysis
+strategy_patient_complete,장기적 관점에서 신중하게 선택한 종목을 꾸준히 보유하는 인내형 전략을 보여줍니다.,Shows a patient strategy of consistently holding carefully selected stocks from a long-term perspective.
+strategy_focused_complete,"🎯 집중투자 스마트 전략 🎯\n좋은 기업 몇 개만 골라서\n오래오래 함께하기 💕\n조급함은 금물, 기다림이 보물!","🎯 Smart Focus Strategy 🎯\nChoose just a few good companies\nStay with them for a long time 💕\nNo rushing, patience is treasure!"
+strategy_steady_complete,🏔️ 꾸준투자 스마트 전략 🏔️\n거북이처럼 느려도 꾸준하게\n시간이 만드는 복리의 마법! ✨\n단순함 속에 숨은 위대함,🏔️ Smart Steady Strategy 🏔️\nSlow but steady like a turtle\nMagic of compound interest over time! ✨\nGreatness hidden in simplicity
+style_cautious_investor,신중투자형,CAUTIOUS INVESTOR
+philosophy_cautious_investor,벤저민 그레이엄의 안전마진 전략처럼 신중한 분석을 통해 리스크를 최소화하며 투자했습니다.,Shows an investment philosophy of careful judgment and calculated risk-taking.
+strategy_cautious_complete,"🛡️ 안전투자 스마트 전략 🛡️\n천천히 가도 괜찮아, 확실하게!\n손실 방지가 수익보다 중요 💎\n신중함이 만드는 작은 기적들",🛡️ Smart Safety Strategy 🛡️\nSlow and steady is perfectly fine!\nPreventing loss matters more than profit 💎\nSmall miracles created by prudence
+philosophy_active_complete,"🔥 조지 소로스의 투자 철학 🔥\n""시장은 항상 틀렸다""\n변화를 두려워하지 말고\n변화 속에서 기회를 찾아라","🔥 George Soros's Investment Philosophy 🔥\n""Markets are always wrong""\nDon't fear change,\nfind opportunities within change "
+philosophy_patient_complete,깊이 있는 기업 분석을 통해 장기적 가치를 추구하는 인내심 있는 투자 철학을 보여줍니다.,Shows a patient investment philosophy that pursues long-term value through in-depth corporate analysis.
+philosophy_focused_complete,"💎 워런 버핏의 투자 철학 💎\n""가격은 당신이 지불하는 것,\n가치는 당신이 얻는 것""\n진정한 가치를 보는 눈을 기르자","💎 Warren Buffett's Investment Philosophy 💎\n""Price is what you pay,\nvalue is what you get""\nDevelop an eye for true value"
+philosophy_steady_complete,"🐢 존 보글의 투자 철학 🐢\n""시간과 복리가 모든 것을 해결한다""\n화려함보다는 지속가능함을\n인덱스 투자의 아버지가 전하는 지혜","🐢 John Bogle's Investment Philosophy 🐢\n""Time and compound interest solve everything""\nSustainability over flashiness\nWisdom from the father of index investing"
+philosophy_cautious_complete,"📚 벤저민 그레이엄의 투자 철학 📚\n""안전마진을 확보하라""\n가치보다 쌀 때만 사고\n시장의 변덕에 흔들리지 말자","📚 Benjamin Graham's Investment Philosophy 📚\n""Secure a margin of safety""\nBuy only when cheaper than value\nDon't be swayed by market whims"
+philosophy_default,균형잡힌 투자 접근법을 통해 안정적인 성과를 추구하는 철학입니다.,A philosophy that pursues stable performance through a balanced investment approach.
+style_growth_investor,성장투자형 (피터 린치 스타일),GROWTH INVESTOR (Peter Lynch Style)
+philosophy_balanced_complete,"⚖️ 레이 달리오의 투자 철학 ⚖️\n""모든 자산이 동시에 망하지는 않는다""\n위험을 나누면 기회는 배가 된다\n올웨더 포트폴리오의 지혜","⚖️ Ray Dalio's Investment Philosophy ⚖️\n""Not all assets fail at the same time""\nDivide risk, double opportunities\nWisdom of the All Weather portfolio "
+philosophy_growth_complete,"🚀 피터 린치의 투자 철학 🚀\n""당신이 아는 것에 투자하라""\n일상 속에서 찾는 투자 기회\n성장 기업을 일찍 발견하는 눈","🚀 Peter Lynch's Investment Philosophy 🚀\n""Invest in what you know""\nFind investment opportunities in daily life\nEyes that spot growth companies early"
+strategy_growth_complete,🌱 성장발굴 스마트 전략 🌱\n내 주변의 뜨는 브랜드 주목하기\n작은 씨앗이 큰 나무로! 🌳\n성장의 싹을 놓치지 말자,🌱 Smart Growth Discovery Strategy 🌱\nWatch rising brands around you\nSmall seeds become big trees! 🌳\nDon't miss the sprouts of growth 
+advice_balanced_success,🎉 레이 달리오처럼 분산투자를 계속 이어가세요! 균형잡힌 접근이 성공의 열쇠입니다. 위험을 나누어 안정적 수익을!,"🎉 Like Ray Dalio, keep up your diversification strategy! Balanced approach is the key to success. Divide risk for stable returns!"
+advice_balanced_improve,💡 레이 달리오처럼 더 다양한 섹터에 분산해보세요. 위험을 나누면 안정성이 높아집니다. 모든 계란을 한 바구니에!,"💡 Like Ray Dalio, try diversifying into more sectors. Dividing risk increases stability. Don't put all eggs in one basket!"
+advice_active_success,🚀 조지 소로스처럼 시장 타이밍을 잘 잡으셨네요! 이 감각을 유지하세요. 변화를 기회로 만드는 능력이 훌륭합니다!,"🚀 Like George Soros, you caught the market timing well! Keep this sense. Your ability to turn change into opportunity is excellent!"
+advice_active_improve,⚡ 너무 자주 거래하지 말고 조지 소로스처럼 확실한 기회만 노려보세요. 인내심도 트레이더의 덕목입니다!,"⚡ Like George Soros, don't trade too frequently - target only clear opportunities. Patience is also a trader's virtue!"
+advice_focused_success,💎 워런 버핏처럼 집중투자가 성공했네요! 선택과 집중의 힘입니다. 좋은 기업을 오래 보유하는 지혜를 보여주셨어요!,"💎 Like Warren Buffett, your focused investment succeeded! The power of selection and concentration. You showed wisdom in holding good companies long!"
+advice_focused_improve,🎯 워런 버핏처럼 좋은 기업을 더 신중하게 고르고 오래 기다려보세요. 가치는 시간이 증명해줍니다!,"🎯 Like Warren Buffett, choose good companies more carefully and wait longer. Time proves value!"
+advice_cautious_success,🛡️ 벤저민 그레이엄처럼 신중한 투자가 결실을 맺었네요! 안전제일이 최고입니다. 꾸준함이 만든 소중한 성과예요!,"🛡️ Like Benjamin Graham, your cautious investment bore fruit! Safety first is the best. Precious results created by consistency!"
+advice_cautious_improve,📚 벤저민 그레이엄처럼 안전마진을 더 확보하고 기업 가치를 꼼꼼히 따져보세요. 신중함이 손실을 막아줍니다!,"📚 Like Benjamin Graham, secure more safety margin and examine company value carefully. Caution prevents losses!"
+advice_growth_success,🌟 피터 린치처럼 성장 기업을 잘 찾으셨네요! 미래를 보는 눈이 훌륭합니다. 계속해서 성장의 싹을 발굴해보세요!,"🌟 Like Peter Lynch, you found growth companies well! Your eye for the future is excellent. Keep discovering growth sprouts!"
+advice_growth_improve,🌱 피터 린치처럼 일상에서 뜨는 브랜드를 더 주의깊게 관찰해보세요. 성장 기업은 우리 주변에 숨어있어요!,"🌱 Like Peter Lynch, observe rising brands in daily life more carefully. Growth companies are hiding around us!"
+advice_steady_success,🏔️ 존 보글처럼 꾸준함이 성과로 이어졌네요! 인내심의 승리입니다. 거북이가 토끼를 이기는 순간이에요!,"🏔️ Like John Bogle, your consistency led to results! Victory of patience. The moment tortoise beats the hare!"
+advice_steady_improve,🐢 조급해하지 말고 존 보글처럼 시간을 투자의 친구로 만드세요. 복리의 마법은 시간과 함께 찾아옵니다!,"🐢 Like John Bogle, don't rush and make time your investment friend. The magic of compound interest comes with time!"
+ui_save,PDF 저장하기,PDF Save
+loading_saving,저장중입니다,Saving
+loading_data,불러오는중입니다,Loading
+loading_processing,처리중입니다,Processing
+loading_pdf,생성중입니다,Generating PDF
+loading_game,게임 로딩중입니다,Loading Game
+result_button_generating_profile,프로필 생성중...,Generating Profile...
+market_opening,장이 열립니다!,The market is open!
+calculating_results,정산중입니다,Settlement in progress
