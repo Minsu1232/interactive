@@ -124,8 +124,8 @@ graph TD
 
 ## 🔗 기타 링크
 
-- 📸 [샘플 프로필 보기](#)  
-- 🧠 [ComfyUI 워크플로우](Assets/Cotents/Script/Example/ComfyUI워크플로우)
+- 📸 [샘플 프로필 보기](Assets/Cotents/Script/Example/예시.png)  
+- 🧠 [ComfyUI 워크플로우](Assets/Cotents/Script/Example/ComfyUI워크플로우.png)
 - 🤖 [기타 다른 게임 YouTube 링크](https://www.youtube.com/@MinsuShin-k9f)
 
 
